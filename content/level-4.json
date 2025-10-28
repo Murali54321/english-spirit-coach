@@ -1,0 +1,176 @@
+{
+  "level": 4,
+  "name": "Orator",
+  "lessons": [
+    {
+      "id": "orator-1",
+      "passage": "Lesson 1 in the Orator level encourages you to explore the depth of your inner world. Consider how discernment and integrity shape your journey. Think about your own experiences with contemplation and transcendence, and how cultivating reciprocity can lead to greater altruism.",
+      "quote": "The wise find discernment in adversity and integrity in chaos.",
+      "vocab": [
+        "discernment",
+        "integrity",
+        "contemplation",
+        "transcendence",
+        "reciprocity",
+        "altruism",
+        "appreciation",
+        "interconnectedness"
+      ],
+      "speakingPrompt": "Explain how discernment and integrity have shaped a key decision in your life. Use at least four of the vocabulary words in your answer.",
+      "writingPrompt": "Write a short essay reflecting on how contemplation and reciprocity can deepen your sense of altruism. Aim for 150 words and incorporate at least five vocabulary words."
+    },
+    {
+      "id": "orator-2",
+      "passage": "This lesson explores how compassion and wisdom empower your actions. Think about times when you practiced compassion towards yourself or others. Recognize how being open-minded and patient fosters clarity in communication.",
+      "quote": "Compassion and wisdom together build bridges of understanding.",
+      "vocab": [
+        "compassion",
+        "wisdom",
+        "open-minded",
+        "patience",
+        "clarity",
+        "empathy",
+        "listening",
+        "heartfelt"
+      ],
+      "speakingPrompt": "Share a story about a time when compassion helped you resolve a misunderstanding. Use at least four vocabulary words.",
+      "writingPrompt": "Describe the role of empathy and patience in building wisdom. Write at least 150 words and use six of the vocabulary words."
+    },
+    {
+      "id": "orator-3",
+      "passage": "Dive deeper into courage and authenticity. Reflect on ways you have expressed your true self in challenging situations. Consider how being sincere and respectful supports growth and fosters community.",
+      "quote": "Courage is authenticity in action.",
+      "vocab": [
+        "courage",
+        "authenticity",
+        "sincerity",
+        "respect",
+        "confidence",
+        "transparency",
+        "candid",
+        "integrity"
+      ],
+      "speakingPrompt": "Discuss a moment when you showed courage by being authentic. Use at least four vocabulary words.",
+      "writingPrompt": "Write about the importance of sincerity and respect in building trust. Aim for at least 150 words using five vocabulary words."
+    },
+    {
+      "id": "orator-4",
+      "passage": "This lesson examines resilience and openness. Reflect on experiences where you adapted to change and embraced new perspectives. Contemplate how resilience, openness, and optimism interplay.",
+      "quote": "Resilience is nurtured by openness and optimism.",
+      "vocab": [
+        "resilience",
+        "openness",
+        "adaptability",
+        "flexibility",
+        "optimism",
+        "perseverance",
+        "growth",
+        "perspective"
+      ],
+      "speakingPrompt": "Share how resilience and optimism helped you adapt to change. Use at least four vocabulary words.",
+      "writingPrompt": "Describe the importance of openness and adaptability in personal growth. Write 150 words using six vocabulary words."
+    },
+    {
+      "id": "orator-5",
+      "passage": "Focus on mindfulness and self-regulation. Contemplate how being present influences your decisions and relationships. Reflect on ways to cultivate balance and harmony in your day-to-day life.",
+      "quote": "Mindfulness leads to harmonious self-regulation.",
+      "vocab": [
+        "mindfulness",
+        "self-regulation",
+        "balance",
+        "harmony",
+        "presence",
+        "composure",
+        "equilibrium",
+        "awareness"
+      ],
+      "speakingPrompt": "Describe how practicing mindfulness has improved your self-regulation. Use at least four vocabulary words.",
+      "writingPrompt": "Write about the relationship between balance and harmony in daily life. Use at least five of the vocabulary words in 150 words."
+    },
+    {
+      "id": "orator-6",
+      "passage": "Explore the theme of gratitude and acceptance. Think about times when gratitude transformed a negative experience. Consider how acceptance of the present moment fosters resilience.",
+      "quote": "Gratitude turns what we have into enough.",
+      "vocab": [
+        "gratitude",
+        "acceptance",
+        "contentment",
+        "forgiveness",
+        "humility",
+        "serenity",
+        "acknowledgment",
+        "surrender"
+      ],
+      "speakingPrompt": "Talk about a time when gratitude helped you accept a challenging situation. Use at least four vocabulary words.",
+      "writingPrompt": "Compose an essay on how forgiveness and humility support acceptance and contentment. Incorporate at least five vocabulary words in 150 words."
+    },
+    {
+      "id": "orator-7",
+      "passage": "Investigate the power of intention and focus. Reflect on moments when setting clear intentions guided your actions. Understand how focusing on values brings meaning to tasks.",
+      "quote": "Intention transforms focus into purposeful action.",
+      "vocab": [
+        "intention",
+        "focus",
+        "purpose",
+        "direction",
+        "motivation",
+        "dedication",
+        "clarity",
+        "determination"
+      ],
+      "speakingPrompt": "Discuss how clear intentions influence your motivation. Use at least four vocabulary words.",
+      "writingPrompt": "Write about the connection between purpose and dedication. Use at least five vocabulary words in a 150-word response."
+    },
+    {
+      "id": "orator-8",
+      "passage": "Consider vulnerability and trust. Think about how sharing your struggles strengthened relationships. Recognize how vulnerability can be a form of strength when grounded in trust and support.",
+      "quote": "Vulnerability is the wellspring of authentic connection.",
+      "vocab": [
+        "vulnerability",
+        "trust",
+        "support",
+        "connection",
+        "courage",
+        "openness",
+        "honesty",
+        "empathy"
+      ],
+      "speakingPrompt": "Share an example of how vulnerability helped you form a meaningful connection. Use at least four vocabulary words.",
+      "writingPrompt": "Discuss the relationship between trust, support, and vulnerability. Use at least five vocabulary words in 150 words."
+    },
+    {
+      "id": "orator-9",
+      "passage": "Dive into mindfulness and equanimity. Reflect on times when equanimity helped you navigate stress. Think about how being present and centered leads to clear judgment and compassion.",
+      "quote": "Equanimity is the calm at the center of life's storms.",
+      "vocab": [
+        "equanimity",
+        "centered",
+        "present",
+        "calm",
+        "serenity",
+        "peace",
+        "steadfast",
+        "moderation"
+      ],
+      "speakingPrompt": "Explain how equanimity has helped you handle stress. Use at least four vocabulary words.",
+      "writingPrompt": "Write about the role of being centered and calm in effective decision-making. Use six vocabulary words in 150 words."
+    },
+    {
+      "id": "orator-10",
+      "passage": "Reflect on purpose and alignment. Consider how aligning your actions with your values shapes your sense of fulfillment. Recognize how staying purposeful brings clarity and energy.",
+      "quote": "Purpose aligns intention with action.",
+      "vocab": [
+        "purpose",
+        "alignment",
+        "fulfillment",
+        "clarity",
+        "energy",
+        "values",
+        "mission",
+        "aspiration"
+      ],
+      "speakingPrompt": "Discuss how aligning your actions with your values has brought you fulfillment. Use at least four vocabulary words.",
+      "writingPrompt": "Write an essay on how clarity of mission fuels your aspiration. Use at least five vocabulary words in 150 words."
+    }
+  ]
+}
