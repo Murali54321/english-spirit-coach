@@ -1,0 +1,146 @@
+{
+  "level": 2,
+  "name": "Builder",
+  "lessons": [
+    {
+      "id": "builder-1",
+      "passage": "Lesson 1 in the Builder level encourages you to explore the depth of your inner world. Consider how discernment and integrity shape your journey. Think about your own experiences with contemplation and how they can refine your actions and choices.",
+      "quote": "\"Knowing yourself is the beginning of all wisdom.\"",
+      "vocab": ["discernment", "integrity", "journey", "contemplation", "refine", "actions", "choices", "wisdom"],
+      "speakingPrompt": "Reflect on a time when integrity guided your decisions. Describe how it felt.",
+      "writingPrompt": "Write about how discernment helps you differentiate between what is helpful and what is harmful.",
+      "exercises": [
+        {"type": "reading", "text": "Discernment and integrity are like twin pillars of a strong character. By discerning what matters most, you refine your actions and strengthen your inner compass."},
+        {"type": "listening", "text": "Integrity is choosing courage over comfort; it's knowing what is right and doing it."},
+        {"type": "speaking", "text": "Say aloud: I trust my discernment and live with integrity every day."},
+        {"type": "writing", "prompt": "How can you apply discernment in daily choices?"}
+      ]
+    },
+    {
+      "id": "builder-2",
+      "passage": "Lesson 2 reminds you that gratitude fosters a resilient spirit. When you appreciate the small things, resilience becomes a natural response to challenges.",
+      "quote": "\"Gratitude turns what we have into enough.\"",
+      "vocab": ["gratitude", "resilient", "spirit", "appreciate", "response", "challenges", "enough", "fosters"],
+      "speakingPrompt": "Describe a moment when you felt deep gratitude.",
+      "writingPrompt": "Write about how gratitude can transform a difficult situation into a learning experience.",
+      "exercises": [
+        {"type": "reading", "text": "Gratitude is a powerful catalyst for happiness. Cultivating a grateful mindset can transform your perspective."},
+        {"type": "listening", "text": "When you’re grateful, fear disappears and abundance appears."},
+        {"type": "speaking", "text": "Say aloud: I am grateful for the lessons in every challenge."},
+        {"type": "writing", "prompt": "How does practicing gratitude impact your resilience?"}
+      ]
+    },
+    {
+      "id": "builder-3",
+      "passage": "Lesson 3 encourages you to cultivate patience. Patience allows us to appreciate the unfolding journey without anxiety.",
+      "quote": "\"Patience is not passive; on the contrary, it is concentrated strength.\"",
+      "vocab": ["patience", "cultivate", "unfolding", "journey", "anxiety", "strength", "appreciate", "concentrated"],
+      "speakingPrompt": "Speak about a time when patience changed the outcome of a situation.",
+      "writingPrompt": "Write on why patience is considered a strength and not a weakness.",
+      "exercises": [
+        {"type": "reading", "text": "Patience allows us to trust the timing of our lives, turning waiting into growth."},
+        {"type": "listening", "text": "Be patient. Everything comes to you in the right moment."},
+        {"type": "speaking", "text": "Say aloud: Patience enriches my journey."},
+        {"type": "writing", "prompt": "In what ways does patience influence your perspective?"}
+      ]
+    },
+    {
+      "id": "builder-4",
+      "passage": "Lesson 4 invites you to explore equanimity. Equanimity means staying balanced amidst life's ups and downs.",
+      "quote": "\"Equanimity is the balance born of wisdom.\"",
+      "vocab": ["equanimity", "balanced", "amidst", "wisdom", "invite", "explore", "ups", "downs"],
+      "speakingPrompt": "Talk about a situation where you maintained equanimity.",
+      "writingPrompt": "Write about strategies to cultivate equanimity in stressful times.",
+      "exercises": [
+        {"type": "reading", "text": "Equanimity helps us remain calm in chaos and maintain clarity."},
+        {"type": "listening", "text": "A calm mind brings inner strength and self-confidence."},
+        {"type": "speaking", "text": "Say aloud: I remain balanced and peaceful."},
+        {"type": "writing", "prompt": "Why is equanimity important in today’s fast-paced world?"}
+      ]
+    },
+    {
+      "id": "builder-5",
+      "passage": "Lesson 5 emphasizes compassion. Compassion for others and yourself can be a powerful force for change.",
+      "quote": "\"Compassion is the wish to see others free from suffering.\"",
+      "vocab": ["compassion", "emphasizes", "powerful", "force", "change", "suffering", "others", "yourself"],
+      "speakingPrompt": "Share a story about a compassionate act that touched you.",
+      "writingPrompt": "Write about why compassion is essential in personal growth.",
+      "exercises": [
+        {"type": "reading", "text": "Compassion connects us deeply and helps build bridges across differences."},
+        {"type": "listening", "text": "No act of kindness, no matter how small, is ever wasted."},
+        {"type": "speaking", "text": "Say aloud: Compassion guides my actions."},
+        {"type": "writing", "prompt": "How does compassion influence your daily actions?"}
+      ]
+    },
+    {
+      "id": "builder-6",
+      "passage": "Lesson 6 is about curiosity. Curiosity opens doors and expands horizons.",
+      "quote": "\"Curiosity is the wick in the candle of learning.\"",
+      "vocab": ["curiosity", "wick", "candle", "learning", "doors", "expands", "horizons", "opens"],
+      "speakingPrompt": "Describe a time when your curiosity led to a valuable discovery.",
+      "writingPrompt": "Write about how curiosity can drive personal transformation.",
+      "exercises": [
+        {"type": "reading", "text": "Curiosity encourages us to explore the unknown and learn new things."},
+        {"type": "listening", "text": "The important thing is not to stop questioning."},
+        {"type": "speaking", "text": "Say aloud: My curiosity leads me to growth."},
+        {"type": "writing", "prompt": "How do you keep your curiosity alive?"}
+      ]
+    },
+    {
+      "id": "builder-7",
+      "passage": "Lesson 7 focuses on resilience. Resilience is the ability to bounce back from setbacks.",
+      "quote": "\"Resilience is born by facing life’s struggles with courage and grace.\"",
+      "vocab": ["resilience", "focuses", "bounce", "setbacks", "ability", "courage", "grace", "struggles"],
+      "speakingPrompt": "Talk about how you overcame a challenge and what you learned.",
+      "writingPrompt": "Write about techniques to strengthen your resilience.",
+      "exercises": [
+        {"type": "reading", "text": "Resilience transforms wounds into wisdom."},
+        {"type": "listening", "text": "In the middle of difficulty lies opportunity."},
+        {"type": "speaking", "text": "Say aloud: I am resilient and adaptable."},
+        {"type": "writing", "prompt": "In what ways has resilience helped you grow?"}
+      ]
+    },
+    {
+      "id": "builder-8",
+      "passage": "Lesson 8 highlights equanimity again, this time in relationships. Staying balanced allows for healthier communication.",
+      "quote": "\"When you realize nothing is lacking, the whole world belongs to you.\"",
+      "vocab": ["equanimity", "highlights", "relationships", "balanced", "healthier", "communication", "realize", "lacking"],
+      "speakingPrompt": "Speak about how equanimity helps maintain harmony in relationships.",
+      "writingPrompt": "Write about how equanimity contributes to compassionate listening.",
+      "exercises": [
+        {"type": "reading", "text": "Balanced communication nourishes mutual understanding."},
+        {"type": "listening", "text": "True listening is an act of love."},
+        {"type": "speaking", "text": "Say aloud: I communicate with balance and compassion."},
+        {"type": "writing", "prompt": "How can you practice equanimity when disagreements arise?"}
+      ]
+    },
+    {
+      "id": "builder-9",
+      "passage": "Lesson 9 is about purpose. Discovering your purpose gives you direction and meaning.",
+      "quote": "\"The purpose of life is a life of purpose.\"",
+      "vocab": ["purpose", "discovering", "direction", "meaning", "life", "gives", "about", "purposeful"],
+      "speakingPrompt": "Describe what purpose means to you.",
+      "writingPrompt": "Write about how finding purpose influences your daily choices.",
+      "exercises": [
+        {"type": "reading", "text": "Purpose directs your energy and clarifies your goals."},
+        {"type": "listening", "text": "Efforts and courage are not enough without purpose and direction."},
+        {"type": "speaking", "text": "Say aloud: I live with purpose and intention."},
+        {"type": "writing", "prompt": "What steps can you take to discover or refine your purpose?"}
+      ]
+    },
+    {
+      "id": "builder-10",
+      "passage": "Lesson 10 encourages attention. Focusing on the present moment enhances clarity and peace.",
+      "quote": "\"The present moment is the only time over which we have dominion.\"",
+      "vocab": ["attention", "focus", "present", "moment", "enhances", "clarity", "peace", "dominion"],
+      "speakingPrompt": "Talk about how mindfulness impacts your daily tasks.",
+      "writingPrompt": "Write about methods for cultivating sustained attention.",
+      "exercises": [
+        {"type": "reading", "text": "Attention is the doorway to discovery and self-awareness."},
+        {"type": "listening", "text": "Mindfulness brings your focus to the here and now."},
+        {"type": "speaking", "text": "Say aloud: I practice attentive presence."},
+        {"type": "writing", "prompt": "What practices help you stay attentive throughout the day?"}
+      ]
+    }
+  ]
+}
